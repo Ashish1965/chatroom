@@ -1,5 +1,5 @@
 // Connect to the server using Socket.IO
-const socket = io('http://localhost:3000'); // Establish a WebSocket connection to the server
+const socket = io('https://chatroom-1-o49b.onrender.com'); // Establish a WebSocket connection to the server
 
 // Select DOM elements
 const chat = document.getElementById('chat'); // Chat container to display messages
