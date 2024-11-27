@@ -30,5 +30,5 @@ Your messages will be broadcasted to all other connected clients except sender i
 
 -Scalability: For larger-scale applications, explore using a more robust framework like Express.js or a dedicated WebSocket library like Socket.IO.
 
--User Interface: Enhance the user experience with a graphical user interface using libraries like Electron or a web-based frontend with frameworks like React or Vue.js.
+-User Interface: Enhance the user experience with a graphical user interface using websocket
 
