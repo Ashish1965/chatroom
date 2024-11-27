@@ -20,7 +20,7 @@ Run the following command: npx serve client
 ## How to use
 
 
-Once the server and clients are running, you can type messages in each client terminal.
+Once the server and clients are running, open 2 - 3 tabs then you can type messages in each client terminal.
 Your messages will be broadcasted to all other connected clients except sender in real-time.
 
 
